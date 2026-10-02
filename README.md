@@ -3,8 +3,8 @@
 **Yürürlük tarihi:** 24 Eylül 2026
 
 Bu gizlilik politikası, Drinkee Coffee Roastery ("Drinkee", "biz") tarafından sunulan
-**Drinkee Cadde** iOS uygulamasını kapsar. Uygulamayı kullanarak bu politikayı kabul
-etmiş olursunuz.
+**Drinkee Cadde** iOS ve Android uygulamalarını kapsar. Uygulamayı kullanarak bu
+politikayı kabul etmiş olursunuz.
 
 ## Topladığımız Veriler
 
